@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    background-color: powderblue;
+    padding: 8px;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke;
+    background-color: grey;
+    border: 1px solid grey;
+    margin: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    padding: 5px;
+    font-size: 30px;
+    
+}
+a:hover{
+    background-color: silver;
+    border: 1px solid silver;
+
+}
+.a1{
+    background-color: lightslategray;
+}
